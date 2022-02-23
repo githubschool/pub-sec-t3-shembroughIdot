@@ -11,7 +11,7 @@ FROM myoung34/github-runner:latest
 # Variables #
 #########################################
 ARG orgname="organization name"
-ARG reponame="repository name"
+ARG reponame="pub-sec-t3-shembroughIdot"
 
 #########################################
 # Label the instance and set maintainer #
